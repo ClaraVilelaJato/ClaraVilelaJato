@@ -1,6 +1,6 @@
 ### Hi there  I'm Clara Vilela Jato👋
 
-  **I've just finished @Adalab bootcamp and where I've learned: HTML, CSS, JavaScript, React and Node.js**🚀
+  **I've just finished @Adalab bootcamp where I've learned: HTML, CSS, JavaScript, React and Node.js**🚀
 
   🔭I’m currently working on creating webpages and learning how to program.
   
